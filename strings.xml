@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Webtoon App</string>
+    <string name="home">Home</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate Us</string>
+    <string name="chapter_1">Chapter-1</string>
+</resources>
